@@ -53,11 +53,3 @@ This project implements an **18-channel Shannon vocoder** in MATLAB to simulate 
 * Simulating cochlear implant hearing for research and education.
 * Testing and visualizing speech processing algorithms.
 * Understanding temporal and spectral processing in auditory prostheses.
-
----
-
-This description aligns with the **level of detail in your MATLAB script**, emphasizing **18-channel Shannon vocoder design, envelope extraction, noise modulation, and comprehensive analysis**.
-
-If you want, I can also **write a 2–3 paragraph “report-style” version** of this that you can directly paste into your final submission—it will read professionally for an assignment.
-
-Do you want me to do that?
